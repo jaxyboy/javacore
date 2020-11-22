@@ -8,6 +8,7 @@ public class SinglyLinkedList {
 
     // test implementation
     public static void main(String[] args) {
+        // test some data
         SinglyLinkedList singlyLinkedList = new SinglyLinkedList();
         System.out.println("initialize list");
         singlyLinkedList.insertAtLast(3);
